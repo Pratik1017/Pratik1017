@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Pratik Deshmukh
-## 🔍 Aspiring Data Analyst | Python | Pandas | SQL | Tableau
+## 🔍 Machine Learning & Python Specialist | SQL, Predictive Modeling & Data Analysis
 
 - 🔭 I’m currently working on real-world datasets (Netflix, Airbnb etc.)
 - 🌱 Learning advanced visualizations and dashboards
