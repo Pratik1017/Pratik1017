@@ -1,87 +1,201 @@
-<h1 align="center">Hi 👋, I'm Pratik Deshmukh</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst</h3>
-
----
-
-## 💫 About Me  
-
-🔭 **Currently Working On**  
-End-to-end **Data Science & Machine Learning projects** involving data collection, cleaning, EDA, feature engineering, model building, and evaluation.  
-Focused on solving **real-world business problems** using **predictive modeling, recommendation systems, NLP**, and building **insightful dashboards** for data-driven decision making.
-
-👯 **Looking to Collaborate On**  
-Data Science, Machine Learning, and Analytics projects where I can contribute using **Python, SQL, and ML algorithms** — especially in **predictive analytics, NLP, recommendation systems**, and real-world datasets from **business, finance, and healthcare** domains.
-
-🤝 **Looking for Help With**  
-Deploying ML models to production, improving model performance, handling large-scale datasets, and understanding **industry-level workflows, MLOps, and best practices**.
-
-🌱 **Currently Learning**  
-Advanced Machine Learning techniques, **Natural Language Processing (NLP)**, model tuning & optimization, and effective **data visualization & storytelling**.
-
-💬 **Ask Me About**  
-Python, SQL, Data Analysis, EDA, Machine Learning algorithms, NLP, feature engineering, model evaluation, and visualization using **Matplotlib, Seaborn, and Plotly**.
-
-⚡ **Fun Fact**  
-I love turning **messy, unstructured data** into **clean insights and accurate ML models** — data storytelling is my favorite part of data science 📊
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-<a href="https://instagram.com/pratik_rd_96k" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/pratikrdeshmukh" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 💻 Tech Stack  
-
-### 🧠 Data Science & ML  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### 📊 Visualization & Analytics  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🗄️ Databases & Cloud  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### ⚙️ Tools & DevOps  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
----
-
-## 📊 GitHub Stats  
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0077B5%26height%3D200%26section%3Dheader%26text%3DHi%2520I%27m%2520Pratik%2520Deshmukh%2520👋&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik1017&theme=dark&hide_border=false"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pratik1017&theme=dark&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik1017&theme=dark&hide_border=false&layout=compact"/>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D0077B5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DAspiring%2BData%2BScientist%3BMachine%2BLearning%2BEnthusiast%3BData%2BAnalyst%2B%2526%2BStoryteller%3BPredictive%2BModeling%2BSpecialist" alt="Typing SVG" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Pratik1017&icon=0&color=0"/>
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DPratik1017%26theme%3Dtokyonight%26no-bg%3Dtrue%26margin-w%3D15" alt="trophy" />
 </p>
 
-<!-- Proudly created with GPRM -->
+🚀 About Me
+
+I am a passionate Data Scientist dedicated to uncovering hidden patterns within complex datasets. My expertise lies in bridging the gap between raw data and actionable business insights through Machine Learning and advanced analytics.
+
+🔭 Current Focus: Building end-to-end ML pipelines—from messy data collection to high-performance model deployment.
+
+🧠 Specialized In: Predictive Modeling, Natural Language Processing (NLP), and Recommendation Engines.
+
+📊 Philosophy: Data Storytelling. I believe a good visualization is worth a thousand spreadsheets.
+
+🌱 Learning Path: Currently diving deep into MLOps, LLMs, and Scalable Data Engineering.
+
+⚡ Fun Fact: I treat cleaning data like a detective mystery—there's always a story hidden in the noise!
+
+🛠️ Tech Stack
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%" valign="top">
+<strong>Data Science & ML</strong>
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dflat-square%26logo%3Dnumpy%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit--Learn-F7931E%3Fstyle%3Dflat-square%26logo%3Dscikit-learn%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dflat-square%26logo%3Dpytorch%26logoColor%3Dwhite" />
+</td>
+<td align="center" width="25%" valign="top">
+<strong>Visualization</strong>
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-ffffff%3Fstyle%3Dflat-square%26logo%3Dmatplotlib%26logoColor%3Dblack" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Plotly-3F4F75%3Fstyle%3Dflat-square%26logo%3Dplotly%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Seaborn-444876%3Fstyle%3Dflat-square%26logo%3Dseaborn%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dflat-square%26logo%3Dpower-bi%26logoColor%3Dblack" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dflat-square%26logo%3Dtableau%26logoColor%3Dwhite" />
+</td>
+<td align="center" width="25%" valign="top">
+<strong>Data & Cloud</strong>
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dflat-square%26logo%3Dmongodb%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dflat-square%26logo%3Damazon-aws%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0089D6%3Fstyle%3Dflat-square%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" />
+</td>
+<td align="center" width="25%" valign="top">
+<strong>DevOps & Tools</strong>
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dflat-square%26logo%3Dflask%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dflat-square%26logo%3Dfastapi%26logoColor%3Dwhite" />
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hadoop-66CCFF%3Fstyle%3Dflat-square%26logo%3Dapache-hadoop%26logoColor%3Dblack" />
+</td>
+</tr>
+</table>
+
+📂 Featured Projects
+
+<!-- Update these with your real repo names to show live cards -->
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/Pratik1017">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DPratik1017%26repo%3Dyour-best-ml-project%26theme%3Dtokyonight%26show_owner%3Dtrue" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/Pratik1017">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DPratik1017%26repo%3Dyour-data-analysis-project%26theme%3Dtokyonight%26show_owner%3Dtrue" />
+</a>
+</p>
+
+📈 GitHub Analytics
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPratik1017%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26hide_border%3Dtrue" height="190px" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPratik1017%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="190px" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPratik1017%26theme%3Dtokyonight%26hide_border%3Dtrue" width="100%" />
+</p>
+
+🤝 Let's Connect!
+
+<p align="center">
+<a href="https://linkedin.com/in/pratikrdeshmukh">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="https://instagram.com/pratik_rd_96k">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3DPratik1017%26icon%3D5%26color%3D0" alt="visitor count" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D0077B5%26height%3D30%26section%3Dfooter" width="100%">
+</p>
